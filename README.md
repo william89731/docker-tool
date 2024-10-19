@@ -27,5 +27,26 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/william89731/docker-too
 
 and follow instruction:
 
-![image](https://github.com/user-attachments/assets/89603c3f-dbe1-418c-b684-20d1d909921f)
+![image](https://github.com/user-attachments/assets/a7c55bb0-eac3-4b46-a3cf-d76d7fbc0e18)
+
+### Functions
+
+- ```Check updates images``` (working on docker and kubernetes):
+
+![image](https://github.com/user-attachments/assets/f539a354-0216-4170-a921-e862b4b8d236)
+
+- ```Scan image``` (for vulnerabity issue)
+
+![image](https://github.com/user-attachments/assets/72cc6624-6bd8-4766-9dc3-b6ca9001156e)
+
+- ```Clean system``` (unused resource)
+
+![image](https://github.com/user-attachments/assets/f3bac523-158f-4c95-b46a-1e2982fc306a)
+
+- and more..
+
+  
+
+
+
 
