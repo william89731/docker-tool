@@ -232,7 +232,7 @@ DOCKER_DROP() {
 ROUTINE() {
   clear
   OPTS=$(whiptail \
-    --title "Docker  Tools" \
+    --title "Docker  Tool" \
     --menu "choise action:" 20 58 7 \
     "CHECK" "check updates images" \
     "SCAN" "scan image docker" \
